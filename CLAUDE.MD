@@ -41,6 +41,10 @@ To be determined based on project requirements.
 
 ## Working with Claude Code
 
+**重要: このプロジェクトでは、常に日本語で回答してください。**
+
+**IMPORTANT: Always respond in Japanese when working on this project.**
+
 When working with Claude on this project:
 
 1. **Be Specific**: Provide clear requirements and context
